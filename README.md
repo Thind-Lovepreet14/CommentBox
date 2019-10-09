@@ -12,7 +12,7 @@ This project allows the user to post a comment and either upvote or downvote tha
 ### Built With
 
 * [React](https://reactjs.org/docs/getting-started.html) - JavaScript library for building user interfaces
-* [node](https://nodejs.org/en/docs/) - Node.js is designed to build scalable network applications.
+* [Node.js](https://nodejs.org/en/docs/) - Node.js is designed to build scalable network applications.
 
 ## Author
 * [Lovepreet Thind](https://github.com/Thind-Lovepreet14)
